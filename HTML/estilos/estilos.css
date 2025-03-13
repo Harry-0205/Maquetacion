@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(17, 24, 39);
+    text-align: center;
+    background-image: url(https://s1.significados.com/foto/ciclo-lunar.jpg?class=article);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#divs{
+    background-color: rgb(229, 231, 235, 0.5);
+    border: black solid;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.DV{
+    background-color:black;
+    border: black solid;
+    width: 90%;
+    height: 700px;
+    margin: auto;
+    margin-bottom: 1rem;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/280px-Full_Moon_Luc_Viatour.jpg);
+    background-size: contain;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.DVT{
+    background-color: rgb(229, 231, 235);
+    border: black solid;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.DVTR{
+    background-color: rgb(245, 245, 220);
+    border: black solid;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.navs{
+    background-color: rgb(245, 245, 220);
+    border: black solid;
+    width: 97%;
+    margin: auto;
+    margin-bottom: 1rem;
+    
+}
+#container{
+    background-color: rgb(229, 231, 235, 0.5);
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+#containerT{
+    background-color: rgb(229, 231, 235);
+    width: 90.5%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+.SCO{
+    background-color: rgb(245, 245, 220, 0.5);
+    border: black solid;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 1rem; 
+    margin-top: 1rem; 
+}
+.SCT{
+    background-color: rgb(245, 245, 220, 0.5);
+    border: black solid;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem; 
+}
+.PAR{
+    background-color: rgb(245, 245, 220);
+    border: black solid;
+    width: 65%;
+    margin-right: auto;
+}
+.ASI{
+    background-color: rgb(245, 245, 220);
+    border: black solid;
+    width: 30%;
+    margin-left: auto;
+}
